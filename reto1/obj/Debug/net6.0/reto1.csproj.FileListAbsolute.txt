@@ -1,0 +1,15 @@
+D:\C#\reto1\reto1\bin\Debug\net6.0\reto1.exe
+D:\C#\reto1\reto1\bin\Debug\net6.0\reto1.deps.json
+D:\C#\reto1\reto1\bin\Debug\net6.0\reto1.runtimeconfig.json
+D:\C#\reto1\reto1\bin\Debug\net6.0\reto1.dll
+D:\C#\reto1\reto1\bin\Debug\net6.0\reto1.pdb
+D:\C#\reto1\reto1\obj\Debug\net6.0\reto1.csproj.AssemblyReference.cache
+D:\C#\reto1\reto1\obj\Debug\net6.0\reto1.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\reto1\reto1\obj\Debug\net6.0\reto1.AssemblyInfoInputs.cache
+D:\C#\reto1\reto1\obj\Debug\net6.0\reto1.AssemblyInfo.cs
+D:\C#\reto1\reto1\obj\Debug\net6.0\reto1.csproj.CoreCompileInputs.cache
+D:\C#\reto1\reto1\obj\Debug\net6.0\reto1.dll
+D:\C#\reto1\reto1\obj\Debug\net6.0\refint\reto1.dll
+D:\C#\reto1\reto1\obj\Debug\net6.0\reto1.pdb
+D:\C#\reto1\reto1\obj\Debug\net6.0\reto1.genruntimeconfig.cache
+D:\C#\reto1\reto1\obj\Debug\net6.0\ref\reto1.dll
